@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+
+<html lang="pt-br">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@200;400;700&display=swap" rel="stylesheet">
+
+        <link rel="stylesheet" href="./styles/style.css">
+        <link rel="stylesheet" href="./styles/mobile.css">
+        <link rel="icon" href="./assets/todo-icon.png">
+
+        <title>To-do List</title>
+
+        <script defer src="./scripts/script.js"></script>
+    </head>
+    <body>
+        <header>
+            <h1>TO-DO LIST</h1>
+        </header>
+
+        <div class="container">
+            <div class="content">
+                <section class="area todo">
+                    <header class="todohead head">
+                        <h2>To do</h2>
+                        <div class="inputs">
+                            <input id="todo-task" type="text" placeholder="Type here"><input id="btn-todo" type="button" value="+">
+                        </div>
+                    </header>
+                    <div class="tasks">
+                    </div>
+                </section>
+                <section class="area doing">
+                    <header class="doinghead head">
+                        <h2>Doing</h2>
+                        <div class="inputs">
+                            <input id="doing-task" type="text" placeholder="Type here"><input id="btn-doing" type="button" value="+">
+                        </div>
+                    </header>
+                    <div class="tasks">
+                        
+                    </div>
+                </section>
+            </div>
+        </div>
+    </body>
+</html>
