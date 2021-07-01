@@ -23,7 +23,7 @@ function addTodoTask() {
         return;
     }
 
-    todoTaskArea.innerHTML += '<div class="card todo-card"><div class="text">' + todoTask.value + '</div><button onclick="deleteTodoTask(this)" class="btn-delete"><img src="../assets/delete.png"></button></div>'
+    todoTaskArea.innerHTML += '<div class="card todo-card"><div class="text">' + todoTask.value + '</div><button onclick="deleteTodoTask(this)" class="btn-delete"><img src="./assets/delete.png"></button></div>'
 
     todoTask.value = "";
 
@@ -40,7 +40,7 @@ function addDoingTask() {
         return;
     }
 
-    doingTaskArea.innerHTML += '<div class="card doing-card"><div class="text">' + doingTask.value + '</div><button onclick="deleteDoingTask(this)" class="btn-delete"><img src="../assets/delete.png"></button></div>'
+    doingTaskArea.innerHTML += '<div class="card doing-card"><div class="text">' + doingTask.value + '</div><button onclick="deleteDoingTask(this)" class="btn-delete"><img src="./assets/delete.png"></button></div>'
 
     doingTask.value = "";
 
