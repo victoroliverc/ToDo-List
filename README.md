@@ -12,6 +12,9 @@
 
 ## 👁️ Preview
 
+![todoList-mobile](https://user-images.githubusercontent.com/86752147/124624760-8e8a1d00-de53-11eb-8a83-923a42d72f7f.gif)
+![todoList](https://user-images.githubusercontent.com/86752147/124623937-cd6ba300-de52-11eb-997e-f2af1a61890f.gif)
+  
 
 
 - GitHub Pages: https://victoroliverc.github.io/ToDo-List/
