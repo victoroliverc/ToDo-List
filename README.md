@@ -1,6 +1,6 @@
 # To-do List
 
-<p> To-do List is a generic task list. It can add actions in two different areas that they will store in the browser, this means that if you update or close the page, they will back after open again.</p>
+<p> To-do List is a generic task list. It can adds actions in two different areas that they will store in the browser, this means that if you update or close the page, they will back after open again.</p>
 
 <hr>
 <p align="center">
