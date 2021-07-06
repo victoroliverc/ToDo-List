@@ -21,8 +21,8 @@
 <h2 id="preview">👁️ Preview</h2>
 
 <h1 align="center">
-  <img width=25% src="./assets/todoList-mobile.gif" alt="mobile-version">
-  <img width=70% src="./assets/todoList.gif" alt="desktop-version">
+  <img width=250 src="./assets/todoList-mobile.gif" alt="mobile-version">
+  <img width=700 src="./assets/todoList.gif" alt="desktop-version">
 </h1>
 
 - GitHub Pages: https://victoroliverc.github.io/ToDo-List/
