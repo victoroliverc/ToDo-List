@@ -4,13 +4,13 @@
 
 <h4 align="center"> ⚠️ This project can be changed ⚠️</h4>
 
-## Features
+## ✅ Features
 
 - [x] Add tasks
 - [x] Remove tasks individually
 - [ ] Clear all tasks
 
-## Preview
+## 👁️ Preview
 
 
 
