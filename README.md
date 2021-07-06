@@ -1,20 +1,34 @@
 # To-do List
 
-> <p> To-do List is a generic task list. It can add actions in two different areas that they will store in the browser, this means that if you update or close the page, they will back after open again.</p>
+<p> To-do List is a generic task list. It can add actions in two different areas that they will store in the browser, this means that if you update or close the page, they will back after open again.</p>
+
+<hr>
+<p align="center">
+  <a href="#features">Features</a> ●
+  <a href="#preview">Preview</a> ● 
+  <a href="#technologies">Technologies</a>
+</p>
+<hr>
 
 <h4 align="center"> ⚠️ This project can be changed ⚠️</h4>
 
-## ✅ Features
+<h2 id="features">✅ Features</h2>
 
 - [x] Add tasks
 - [x] Remove tasks individually
 - [ ] Clear all tasks
 
-## 👁️ Preview
+<h2 id="preview">👁️ Preview</h2>
 
-![todoList-mobile](https://user-images.githubusercontent.com/86752147/124624760-8e8a1d00-de53-11eb-8a83-923a42d72f7f.gif)
-![todoList](https://user-images.githubusercontent.com/86752147/124623937-cd6ba300-de52-11eb-997e-f2af1a61890f.gif)
-  
-
+<h1 align="center">
+  <img width=250 src="./assets/todoList-mobile.gif" alt="mobile-version">
+  <img width=700 src="./assets/todoList.gif" alt="desktop-version">
+</h1>
 
 - GitHub Pages: https://victoroliverc.github.io/ToDo-List/
+
+<h2 id="technologies">💻 Technologies used</h2>
+
+- HTML5
+- CS3
+- JavaScript
