@@ -23,8 +23,8 @@
 - GitHub Pages: https://victoroliverc.github.io/ToDo-List/
 
 <h1 align="center">
-  <img width=250 src="./assets/todoList-mobile.gif" alt="mobile-version">
-  <img width=700 src="./assets/todoList.gif" alt="desktop-version">
+  <img height="600px" src="./assets/todoList-mobile.gif" alt="mobile-version">
+  <img height="400px"src="./assets/todoList.gif" alt="desktop-version">
 </h1>
 
 <h2 id="technologies">💻 Technologies used</h2>
